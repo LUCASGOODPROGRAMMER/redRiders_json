@@ -1,0 +1,54 @@
+{
+  "user": [],
+  "restaurante": [
+    {
+      "id": "eb70",
+      "name": "Von Lycaon & Corin Wickes",
+      "number": "4232545",
+      "address": "zzz",
+      "cnpj": "1111111",
+      "data": "24/08/2025, 09:56:14",
+      "cardapios": [
+        ""
+      ],
+      "admin": [
+        ""
+      ],
+      "img": "https://images.alphacoders.com/133/thumb-1920-1339734.jpeg"
+    },
+    {
+      "id": "9cbd",
+      "name": "One Piece Crew",
+      "number": "3242",
+      "address": "one piece",
+      "cnpj": "45325",
+      "data": "24/08/2025, 14:27:09",
+      "cardapios": [
+        ""
+      ],
+      "admin": [
+        ""
+      ],
+      "img": "https://images5.alphacoders.com/134/thumb-1920-1345309.jpeg"
+    },
+    {
+      "id": "4a96",
+      "name": "Mr. Robot",
+      "number": "fadfaf",
+      "address": "aaaaaaaa",
+      "cnpj": "asfdasf",
+      "data": "24/08/2025, 14:30:03",
+      "cardapios": [
+        ""
+      ],
+      "admin": [
+        ""
+      ],
+      "img": "https://images.alphacoders.com/902/thumb-1920-902435.jpg"
+    }
+  ],
+  "pedido": [],
+  "feedback": [],
+  "cardapio": [],
+  "pratos": []
+}
